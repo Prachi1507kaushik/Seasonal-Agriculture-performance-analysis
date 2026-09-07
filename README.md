@@ -1,6 +1,6 @@
-Seasonal Agriculture Performance Analysis
+**Seasonal Agriculture Performance Analysis**
 
-VOIS AICTE Batch 1 (2026–2027) — Major Project
+**VOIS AICTE Batch 1 (2026–2027) — Major Project**
 
 A data analytics project analyzing seasonal variation in agricultural performance across Indian states, using a farm-level dataset covering environmental conditions, resource usage, yield, and economic outcomes across the Kharif, Rabi, and Zaid cropping seasons.
 
